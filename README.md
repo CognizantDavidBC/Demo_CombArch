@@ -1,2 +1,5 @@
-# Demo_CombArch
-Demo project using: MVVM+C / Combine / Mix: UIKit & SwiftUI
+
+# Demo Project
+- MVVM + Coordinator
+- Combine
+- Mix UIKit & SwiftUI
